@@ -64,8 +64,6 @@ java FilePacker Demo Pack.txt
 java FileUnpacker Pack.txt
 ```
 
-> Replace `Demo` and `MarvellousPack.txt` with your source folder/files and desired archive name as needed.
-
 ---
 
 ## 🛠️ Tech Stack
