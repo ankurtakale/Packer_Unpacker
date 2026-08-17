@@ -4,7 +4,6 @@ A Java-based file utility that combines multiple files into a single encrypted a
 
 ![Java](https://img.shields.io/badge/Java-JRE%20Compatible-orange)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-blue)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
 
@@ -76,20 +75,3 @@ java FileUnpacker Pack.txt
 | Compatibility     | Any JRE-supported OS   |
 
 ---
-
-## 📌 Roadmap Ideas
-
-- [ ] Add compression support alongside encryption
-- [ ] Support password-based key derivation for decryption
-- [ ] Add a progress indicator for large archives
-- [ ] Build a simple GUI wrapper
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to fork the repo and submit a pull request.
-
-## 📄 License
-
-This project is open source and available for educational and personal use.
